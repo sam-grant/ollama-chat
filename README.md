@@ -16,6 +16,12 @@ The browser loads static HTML/CSS/JS files from a Python HTTP server which talks
 
 ![Architecture](docs/architecture_with_backend.png)
 
+## Minimal example
+
+A bare-bones example is provided in [minimal-example](minimal-example).
+
+![MinimalExample](docs/first_chat.png)
+
 
 ## Quick start
 
